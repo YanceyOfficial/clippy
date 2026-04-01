@@ -80,7 +80,9 @@ export function AboutTab({
       <div className="space-y-2 rounded-lg border p-4">
         <div className="flex justify-between text-sm">
           <span className="text-muted-foreground">Talon Version</span>
-          <span className="font-mono">v{version}</span>
+          <span className="font-mono">
+            {import.meta.env.DEV ? 'dev' : `v${version}`}
+          </span>
         </div>
         <div className="flex justify-between border-t pt-2 text-sm">
           <span className="text-muted-foreground">OpenClaw Version</span>
