@@ -4,6 +4,13 @@ All notable changes to Talon will be documented in this file.
 
 ---
 
+## [1.8.0](https://github.com/YanceyOfficial/talon/compare/v1.7.0...v1.8.0) (2026-04-01)
+
+
+### Features
+
+* show 'dev' as version in development mode ([cd66054](https://github.com/YanceyOfficial/talon/commit/cd660549fe955f097cf325369efea031c8310915))
+
 ## [1.7.0](https://github.com/YanceyOfficial/talon/compare/v1.6.0...v1.7.0) (2026-03-13)
 
 
