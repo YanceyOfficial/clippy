@@ -111,7 +111,9 @@ export function ConnectionTab({ settings, setSettings }: ConnectionTabProps) {
             </Button>
           </div>
           <p className="text-muted-foreground text-xs">
-            Your OpenClaw authentication token
+            Your OpenClaw authentication token (found at{' '}
+            <code>gateway.auth.token</code> in{' '}
+            <code>.openclaw/openclaw.json</code>)
           </p>
         </div>
       </div>
