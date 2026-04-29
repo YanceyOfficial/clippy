@@ -31,7 +31,7 @@
     "date-fns": "^4.1.0",
     "jotai": "^2.18.0",
     "katex": "^0.16.38",
-    "lucide-react": "^0.577.0",
+    "lucide-react": "^1.14.0",
     "radix-ui": "^1.4.3",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
