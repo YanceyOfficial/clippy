@@ -1,3 +1,5 @@
+
+
 # Talon — Desktop AI Assistant
 
 <p align="center">
@@ -151,6 +153,7 @@ Open Talon's **Settings** (click the gear icon in the main panel or right-click 
 pnpm dev            # Vite dev server only (no Tauri)
 pnpm tauri dev      # Full Tauri + Vite dev mode
 pnpm build          # Build frontend
+pnpm preview        # Preview built frontend with Vite
 pnpm tauri build    # Build production .app / .dmg
 pnpm format         # Prettier (import order + Tailwind class sort)
 pnpm lint           # ESLint + TypeScript
